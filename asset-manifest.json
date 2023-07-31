@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IP02-Code-Challenge-Bot-Battlr/static/css/main.3187da29.css",
+    "main.js": "/IP02-Code-Challenge-Bot-Battlr/static/js/main.f3ee9f22.js",
+    "static/js/787.bc7d429a.chunk.js": "/IP02-Code-Challenge-Bot-Battlr/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/IP02-Code-Challenge-Bot-Battlr/index.html",
+    "main.3187da29.css.map": "/IP02-Code-Challenge-Bot-Battlr/static/css/main.3187da29.css.map",
+    "main.f3ee9f22.js.map": "/IP02-Code-Challenge-Bot-Battlr/static/js/main.f3ee9f22.js.map",
+    "787.bc7d429a.chunk.js.map": "/IP02-Code-Challenge-Bot-Battlr/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3187da29.css",
+    "static/js/main.f3ee9f22.js"
+  ]
+}
